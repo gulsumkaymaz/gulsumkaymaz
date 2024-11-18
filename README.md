@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Gulsum</h1>
 <h3 align="center">A passionate Software QA Tester from Turkey</h3>
 
-<img src="https://komarev.com/ghpvc/?username=GlsmKaymaz&&style=plastics&&color=blue" align="right"/> </p>
-
 🌱 I’m currently learning **Appium**
 
  💬 Ask me about **Testing**
 
  📫 How to reach me **glsmkaymazz@gmail.com**
 
- <h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gulsumkaymaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gulsumkaymaz/" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -30,3 +30,7 @@
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" align="left" height="40" width="40"></a>
 <a href="https://developer.apple.com/xcode/"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/70/04/f2/7004f2e7-5a89-4d71-22e4-016c6a8594c1/Xcode-85-220-0-4-2x.png/1200x630bb.png" align="left" height="40" width="40"></a>
 </p>
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=gulsumkaymaz&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
