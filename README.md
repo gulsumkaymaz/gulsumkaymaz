@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gulsum</h1>
 <h3 align="center">A passionate Software QA Tester from Turkey</h3>
 
-🌱 I’m currently learning **Appium**
+🌱 I’m currently learning **Appium** and **Swift**
 
  💬 Ask me about **Testing**
 
